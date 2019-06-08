@@ -1,5 +1,5 @@
 {
-    "name": "naoray/laravel-reviewable",
+    "name": "afabris/laravelreviewable",
     "description": "Adds a reviewable feature to your app.",
     "type": "package",
     "license": "MIT",
